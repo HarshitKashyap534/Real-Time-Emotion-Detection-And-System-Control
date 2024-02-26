@@ -1,4 +1,4 @@
-# Real-Time-Emotion-Detection-And-System-Control
+# Real Time Emotion Detection And System Control
 # Sentiment Detection Using Facial Expression with AI
 # Project Overview
 This project aims to develop and deploy an artificial intelligence (AI) system capable of detecting human sentiments based on facial expressions. 
