@@ -5,7 +5,7 @@ from keras.preprocessing.image import img_to_array
 from keras.preprocessing import image
 import cv2
 import numpy as np
-import serial  # Import serial libraryu
+import serial  # Import serial library
 
 # Initialize serial communication with Arduino
 arduino = serial.Serial('COM8', 9600)  # Adjust COM port as needed
